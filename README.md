@@ -1,4 +1,4 @@
-# Example Github Actions Typescript Docker
+Example Github Actions Typescript Docker
 
 This project is a sample application that demonstrates the usage of Prisma ORM along with GitHub Actions to build a Docker image and automatically deploy it to the GitHub Container Registry. The Docker image can be later pulled from the GitHub Container Registry.
 
