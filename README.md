@@ -6,7 +6,7 @@ This project is a sample application that demonstrates the usage of Prisma ORM a
 
 You can pull an example image with `docker pull ghcr.io/hycord/egatd:main `
 
-View more info on this package [herehttps://github.com/Hycord/egatd/pkgs/container/egatd]())
+View more info on this package [here]([https://github.com/Hycord/egatd/pkgs/container/egatd]())
 
 ## Prerequisites
 
