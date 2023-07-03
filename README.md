@@ -18,6 +18,6 @@ Before getting started, ensure that you have the following installed:
 
 ## Acknowledgments
 
-* [Prisma](https://www.prisma.io/) - The database toolkit used in this project.
-* [GitHub Actions](https://docs.github.com/en/actions) - CI/CD platform provided by GitHub.
-* [Docker](https://www.docker.com/) - Containerization platform used for building and deploying the application.
+- [Prisma](https://www.prisma.io/) - The database toolkit used in this project.
+- [GitHub Actions](https://docs.github.com/en/actions) - CI/CD platform provided by GitHub.
+- [Docker](https://www.docker.com/) - Containerization platform used for building and deploying the application.

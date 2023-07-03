@@ -7,7 +7,7 @@
     "build": "tsc -b",
     "start": "node dist/index.js",
     "dev": "nodemon ./src/index.ts",
-    "init": "prisma generate"
+    "init": "npx prisma db push --schema=/usr/app/prisma/schema.prisma --accept-data-loss"
   },
   "repository": {
     "type": "git",
