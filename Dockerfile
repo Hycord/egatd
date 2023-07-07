@@ -5,13 +5,11 @@ WORKDIR /usr/app
 
 # Install app dependencies
 COPY package*.json ./
-COPY prisma ./prisma
 ENV NODE_ENV=production
 RUN npm install
 
 COPY . .
 
-RUN npm run init
 RUN npm run build
 
 WORKDIR /usr/app/dist
